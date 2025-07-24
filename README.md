@@ -7,8 +7,6 @@ A Next.js application that displays portfolio data from a CSV dataset in a respo
 To run this application locally:
 
 ```bash
-# Navigate to the frontend directory
-cd frontend
 
 # Install dependencies
 npm install
